@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+
+<h1>Steven Frederick</h1>
+<p> Here is the html link for the completed week 3 Dash assignment</p>
+<a href="https://dash.generalassemb.ly/Steven_Frederick/build-your-own-blog-theme">Dash Week 3</a>
