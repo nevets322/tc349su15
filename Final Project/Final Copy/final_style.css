@@ -1,0 +1,51 @@
+header{
+  text-align: center;
+  background-color: gray;
+}
+article{
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+li{
+  display: inline;
+  padding: 0px 50px 0px 50px;
+}
+ol{
+  font-family: sans-serif;
+  font-size: 18px;
+  display: block;
+}
+ul{
+  border: solid;
+  background-color: black;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+h1{
+  font-size: 70px;
+  font-family: sans-serif;
+}
+h2{
+  font-size: 36px;
+  padding-left: 180px;
+  font-family: sans-serif;
+}
+h3{
+  font-size: 24px;
+  text-align: center;
+  font-family: sans-serif;
+}
+p{
+  text-align: center;
+}
+a:link{
+  color: white;
+  text-decoration: underline;
+}
+a:hover{
+color: gray;
+}
+a:visted{
+color: red;
+}
